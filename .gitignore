@@ -33,3 +33,6 @@
 
 # Debug files
 .vscode
+
+# Build directories
+build*/
